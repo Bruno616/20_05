@@ -1,5 +1,5 @@
 # Jogos de inspiração
-<h3> Integrantes: Bruno Queiroz Plata
+<h3> Integrantes: Bruno Queiroz Plata,
  Kevin Novais Bezerra<h3>
 
 Jogos
