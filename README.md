@@ -1,7 +1,6 @@
 # 20_05
 Jogos
 Bloons TD 6
-Call of duty zombie mode
 
 sinopse 
 Jogo estilo tower defense com visão top down, podendo colocar macacos em um mapa, cada macaco tem uma habilidade especial, até mesmo podendo evoluir. O objetivo principal do jogo é atacar balões, que são chamados de bloons, para que não cheguem até o final do mapa. Sempre que um balão chega ao final o player toma dano, se zerar as vidas o jogo chega ao fim
