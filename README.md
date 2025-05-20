@@ -1,5 +1,6 @@
 # Jogos de inspiração
-<h3> Integrantes: Bruno Queiroz Plata, Kevin Novais Bezerra<h3>
+<h3> Integrantes: Bruno Queiroz Plata
+ Kevin Novais Bezerra<h3>
 
 Jogos
 Bloons TD 6
